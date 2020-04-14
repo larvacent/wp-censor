@@ -1,0 +1,12 @@
+{
+  "name": "larva/wp-censor",
+  "description": "This is a Tencent Censor.",
+  "keywords": [ "comment", "tencent", "censor", "larva" ],
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": "^7.2",
+    "tencentcloud/tencentcloud-sdk-php": "^3.0"
+  },
+  "prefer-stable": true
+}
